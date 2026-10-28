@@ -1,0 +1,520 @@
+{
+  "subjects": [
+    {
+      "id": "anatomy",
+      "title": "Anatomy",
+      "chapters": [
+        {
+          "id": "1",
+          "number": 1,
+          "title": "Chapter 1"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "title": "Chapter 2"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "title": "Chapter 3"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "title": "Chapter 4"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "title": "Chapter 5"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "title": "Chapter 6"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "title": "Chapter 7"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "title": "Chapter 8"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "title": "Chapter 9"
+        },
+        {
+          "id": "10",
+          "number": 10,
+          "title": "Chapter 10"
+        },
+        {
+          "id": "11",
+          "number": 11,
+          "title": "Chapter 11"
+        },
+        {
+          "id": "12",
+          "number": 12,
+          "title": "Chapter 12"
+        }
+      ],
+      "lectureCount": 12
+    },
+    {
+      "id": "biology",
+      "title": "Medical Biology",
+      "chapters": [
+        {
+          "id": "1",
+          "number": 1,
+          "title": "Chapter 1"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "title": "Chapter 2"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "title": "Chapter 3"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "title": "Chapter 4"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "title": "Chapter 5"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "title": "Chapter 6"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "title": "Chapter 7"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "title": "Chapter 8"
+        }
+      ],
+      "lectureCount": 20
+    },
+    {
+      "id": "general-chemistry",
+      "title": "General Chemistry",
+      "chapters": [
+        {
+          "id": "1",
+          "number": 1,
+          "title": "Chapter 1"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "title": "Chapter 2"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "title": "Chapter 3"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "title": "Chapter 4"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "title": "Chapter 5"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "title": "Chapter 6"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "title": "Chapter 7"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "title": "Chapter 8"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "title": "Chapter 9"
+        }
+      ],
+      "lectureCount": 27
+    },
+    {
+      "id": "organic-chemistry",
+      "title": "Organic Chemistry",
+      "chapters": [
+        {
+          "id": "1",
+          "number": 1,
+          "title": "Chapter 1"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "title": "Chapter 2"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "title": "Chapter 3"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "title": "Chapter 4"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "title": "Chapter 5"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "title": "Chapter 6"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "title": "Chapter 7"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "title": "Chapter 8"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "title": "Chapter 9"
+        },
+        {
+          "id": "10",
+          "number": 10,
+          "title": "Chapter 10"
+        },
+        {
+          "id": "11",
+          "number": 11,
+          "title": "Chapter 11"
+        }
+      ],
+      "lectureCount": 42
+    },
+    {
+      "id": "physics",
+      "title": "Medical Physics",
+      "chapters": [
+        {
+          "id": "1",
+          "number": 1,
+          "title": "Chapter 1"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "title": "Chapter 2"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "title": "Chapter 3"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "title": "Chapter 4"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "title": "Chapter 5"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "title": "Chapter 6"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "title": "Chapter 7"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "title": "Chapter 8"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "title": "Chapter 9"
+        },
+        {
+          "id": "10",
+          "number": 10,
+          "title": "Chapter 10"
+        },
+        {
+          "id": "11",
+          "number": 11,
+          "title": "Chapter 11"
+        }
+      ],
+      "lectureCount": 31
+    },
+    {
+      "id": "medical-terminology",
+      "title": "Medical Terminology",
+      "chapters": [
+        {
+          "id": "1",
+          "number": 1,
+          "title": "Chapter 1"
+        },
+        {
+          "id": "2",
+          "number": 2,
+          "title": "Chapter 2"
+        },
+        {
+          "id": "3",
+          "number": 3,
+          "title": "Chapter 3"
+        },
+        {
+          "id": "4",
+          "number": 4,
+          "title": "Chapter 4"
+        },
+        {
+          "id": "5",
+          "number": 5,
+          "title": "Chapter 5"
+        },
+        {
+          "id": "6",
+          "number": 6,
+          "title": "Chapter 6"
+        },
+        {
+          "id": "7",
+          "number": 7,
+          "title": "Chapter 7"
+        },
+        {
+          "id": "8",
+          "number": 8,
+          "title": "Chapter 8"
+        },
+        {
+          "id": "9",
+          "number": 9,
+          "title": "Chapter 9"
+        },
+        {
+          "id": "10",
+          "number": 10,
+          "title": "Chapter 10"
+        },
+        {
+          "id": "11",
+          "number": 11,
+          "title": "Chapter 11"
+        },
+        {
+          "id": "12",
+          "number": 12,
+          "title": "Chapter 12"
+        },
+        {
+          "id": "13",
+          "number": 13,
+          "title": "Chapter 13"
+        },
+        {
+          "id": "14",
+          "number": 14,
+          "title": "Chapter 14"
+        },
+        {
+          "id": "15",
+          "number": 15,
+          "title": "Chapter 15"
+        },
+        {
+          "id": "16",
+          "number": 16,
+          "title": "Chapter 16"
+        },
+        {
+          "id": "17",
+          "number": 17,
+          "title": "Chapter 17"
+        },
+        {
+          "id": "18",
+          "number": 18,
+          "title": "Chapter 18"
+        },
+        {
+          "id": "19",
+          "number": 19,
+          "title": "Chapter 19"
+        },
+        {
+          "id": "20",
+          "number": 20,
+          "title": "Chapter 20"
+        },
+        {
+          "id": "21",
+          "number": 21,
+          "title": "Chapter 21"
+        },
+        {
+          "id": "22",
+          "number": 22,
+          "title": "Chapter 22"
+        },
+        {
+          "id": "23",
+          "number": 23,
+          "title": "Chapter 23"
+        },
+        {
+          "id": "24",
+          "number": 24,
+          "title": "Chapter 24"
+        }
+      ],
+      "lectureCount": 14
+    },
+    {
+      "id": "other",
+      "title": "Other Subjects",
+      "chapters": [],
+      "lectureCount": 0
+    }
+  ],
+  "resources": [
+    {
+      "id": "imported-1",
+      "title": "Skin — Anatomy Exam (40 questions)",
+      "type": "exam",
+      "subjectId": "anatomy",
+      "chapterId": 3,
+      "path": "resources/01-skin-exam-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-2",
+      "title": "Chapter 3 — Transport of Substances Exam",
+      "type": "exam",
+      "subjectId": "biology",
+      "chapterId": 3,
+      "path": "resources/02-chapter-3-exam-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-3",
+      "title": "Chapter 4 — Action Potentials (100 MCQs)",
+      "type": "exam",
+      "subjectId": "biology",
+      "chapterId": 4,
+      "path": "resources/03-medical-biology-chapter-4-100-interactive-mcq-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-4",
+      "title": "Chapters 1–3 — Physics Exam (50 MCQs)",
+      "type": "exam",
+      "subjectId": "physics",
+      "chapterId": null,
+      "path": "resources/04-medical-physics-chapters-1-2-3-50-mcq-exam-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-5",
+      "title": "Chapters 1–3 — Physics Exam (100 MCQs)",
+      "type": "exam",
+      "subjectId": "physics",
+      "chapterId": null,
+      "path": "resources/05-medical-physics-ch1-ch2-ch3-100-interactive-mcq-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-6",
+      "title": "Chapter 3 — X-rays Study Guide",
+      "type": "summary",
+      "subjectId": "physics",
+      "chapterId": 3,
+      "path": "resources/06-physics-ch3-xrays-study-guide-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-7",
+      "title": "Lecture 3 — Prefixes & Suffixes Exam",
+      "type": "exam",
+      "subjectId": "medical-terminology",
+      "chapterId": null,
+      "path": "resources/07-medical-terminology-lecture3-mcq-exam-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-8",
+      "title": "Lecture 3 — Prefixes & Suffixes Flashcards",
+      "type": "flashcards",
+      "subjectId": "medical-terminology",
+      "chapterId": null,
+      "path": "resources/08-medical-terminology-lecture3-flashcards-1-html.html",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-9",
+      "title": "Lecture 3 — Comprehensive Tables",
+      "type": "pdf",
+      "subjectId": "medical-terminology",
+      "chapterId": null,
+      "path": "resources/09-medical-terminology-lecture3-comprehensive-tables-2-pdf.pdf",
+      "description": "Your original study file · preserved without editing"
+    },
+    {
+      "id": "imported-10",
+      "title": "General Chemistry — Revision Cheat Sheet (Ch 2,3,4,10,11,13,15,16)",
+      "type": "pdf",
+      "subjectId": "general-chemistry",
+      "chapterId": null,
+      "path": "resources/10-general-chemistry-revision-sheet-pdf.pdf",
+      "description": "Your original study file · preserved without editing"
+    }
+  ],
+  "exams": []
+}
